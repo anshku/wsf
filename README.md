@@ -9,8 +9,8 @@ The backend is written in Django, django-restframework, which consists of an API
 Clone this repo and cd:
 
 ```
-git clone ...
-cd wallstreetfootball
+git clone https://github.com/anshku/wsf.git
+cd wsf
 ```
 
 Run `setup.sh` or setup manually:
