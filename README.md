@@ -5,6 +5,15 @@ The purpose of this task is to design and implement a web page that displays som
 The backend is written in Django, django-restframework, which consists of an API which can retrive, create, update or delete contents.
 
 
+## Quickstart
+
+```
+bash setup.sh
+bash runapi.sh
+```
+
+Browse http://localhost:8080/
+
 ## Setup
 Clone this repo and cd:
 
